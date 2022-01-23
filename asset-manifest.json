@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ayame/static/css/main.76568259.css",
-    "main.js": "/ayame/static/js/main.e96f9c57.js",
-    "static/js/787.70ab170a.chunk.js": "/ayame/static/js/787.70ab170a.chunk.js",
-    "index.html": "/ayame/index.html",
-    "main.76568259.css.map": "/ayame/static/css/main.76568259.css.map",
-    "main.e96f9c57.js.map": "/ayame/static/js/main.e96f9c57.js.map",
-    "787.70ab170a.chunk.js.map": "/ayame/static/js/787.70ab170a.chunk.js.map"
+    "main.css": "/janmlam.github.io/static/css/main.76568259.css",
+    "main.js": "/janmlam.github.io/static/js/main.37715778.js",
+    "static/js/787.70ab170a.chunk.js": "/janmlam.github.io/static/js/787.70ab170a.chunk.js",
+    "index.html": "/janmlam.github.io/index.html",
+    "main.76568259.css.map": "/janmlam.github.io/static/css/main.76568259.css.map",
+    "main.37715778.js.map": "/janmlam.github.io/static/js/main.37715778.js.map",
+    "787.70ab170a.chunk.js.map": "/janmlam.github.io/static/js/787.70ab170a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76568259.css",
-    "static/js/main.e96f9c57.js"
+    "static/js/main.37715778.js"
   ]
 }
